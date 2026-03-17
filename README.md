@@ -16,6 +16,10 @@ Requirements
 - Python 3.11
 - pip
 
+Steps to download
+--------
+Go to Release - Version-1 and download the .whl file
+
 Install
 -------
 From this workspace root:
