@@ -18,7 +18,7 @@ Requirements
 
 Steps to download
 --------
-Go to Release - Version-1 and download the .whl file
+Go to Release - (PyTorch (Custom Build) - RTX 50 Series / sm_120 Support) and download the .whl file
 
 Install
 -------
